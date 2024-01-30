@@ -1,0 +1,7 @@
+numpy
+matplotlib
+opendatasets
+pandas
+scikit-learn
+tensorflow
+pyarrow

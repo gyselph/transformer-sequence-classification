@@ -1,3 +1,7 @@
-career-con-2019
+career-con-2019*
 .DS_Store
 *.npz
+.venv
+kaggle.json
+tmp
+__pycache__
